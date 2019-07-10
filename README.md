@@ -1,5 +1,6 @@
 ### I've "hacked" GitHub.  But not really.
 
+###### Visit this link to see how it was done.  The code used is below.
 https://hackernoon.com/how-to-hack-github-kind-of-12b08a46d02e
 
 ```
