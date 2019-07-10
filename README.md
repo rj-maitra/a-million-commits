@@ -2,7 +2,7 @@
 
 https://hackernoon.com/how-to-hack-github-kind-of-12b08a46d02e
 
-`
+```
 # a million commits
 for Y in {1999..2018}
 do
@@ -35,4 +35,4 @@ git rm -rf 20**
 git rm -rf 19**
 git commit -am "cleanup"
 git push origin master
-`
+```
